@@ -1,1 +1,1 @@
-Learn Git Branch.
+Git branch is so amazing!
