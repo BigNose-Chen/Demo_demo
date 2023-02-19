@@ -1,1 +1,1 @@
-Git branch is so amazing!
+Git merge is so complicated, I want more easy ways.
