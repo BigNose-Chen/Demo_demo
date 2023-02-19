@@ -1,1 +1,1 @@
-Git merge is so complicated, I want more easy ways.
+01: Create a file named readme.txt.
